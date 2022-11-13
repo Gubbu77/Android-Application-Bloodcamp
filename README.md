@@ -4,7 +4,8 @@ Android Studio project
 Blood Camp 
 
 #animation
-![IMG_20221113_161126](https://user-images.githubusercontent.com/91895505/201517866-a1f1fba2-8c35-48f8-a9dc-159b6219d977.jpg)
+![IMG_20221113_161126 (1)](https://user-images.githubusercontent.com/91895505/201517908-11704a31-1533-4085-a26a-08b2a56a37d5.jpg)
+
 
 
 #registeration
